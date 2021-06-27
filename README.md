@@ -13,7 +13,6 @@ Summary:
   iii) Can be further reused for similar future analysis
 
 
-
 - Pros and Cons apply to refactoring the original VBA script
   i) After applying refactoring to the original VBA we no longer had to change the year value in the code manually to 2017 / 2018 
   ii) After applying refacoring the run time was reduced
